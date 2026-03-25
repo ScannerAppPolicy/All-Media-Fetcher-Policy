@@ -1,140 +1,99 @@
-# Privacy Policy
+Privacy Policy
+Last Updated: March 2026
 
-**Last Updated:** December 29, 2025
+PLEASE READ THIS DOCUMENT CAREFULLY. BY USING THE APPLICATION, YOU AGREE TO THIS PRIVACY POLICY.
 
-This Privacy Policy describes our minimal data practices for **All Video Downloader & Saver** (the **"Service"**). The Service operates completely anonymously without collecting personal information.
+Introduction
 
-By using the Service, you agree to these practices.
+This Privacy Policy describes how All Media Fetcher (“we”, “our”, or “us”) collects, uses, and protects information when you use our application (“App”).
 
-## Table of Contents
+We are committed to protecting your privacy and ensuring transparency in how data is handled.
 
-1. [Interpretation and Definitions](#interpretation-and-definitions)
-2. [Information We Collect](#information-we-collect)
-3. [How We Use Information](#how-we-use-information)
-4. [Local Device Storage](#local-device-storage)
-5. [User Responsibility for Content](#user-responsibility-for-content)
-6. [Data Sharing](#data-sharing)
-7. [Data Retention](#data-retention)
-8. [Data Security](#data-security)
-9. [Children's Privacy](#childrens-privacy)
-10. [Your Rights](#your-rights)
-11. [Changes to This Policy](#changes-to-this-policy)
-12. [Contact Us](#contact-us)
+Information We Collect
 
-## Interpretation and Definitions
+We collect minimal information necessary to operate the App:
 
-### Interpretation
-Capitalized terms have specific meanings defined below. These definitions apply regardless of singular or plural form.
+1. Usage Data
 
-### Definitions
+* App interactions
+* Features used
+* Error logs (for debugging and improvement)
 
-- **You**: The individual using the Service
-- **Company/We/Us**: GoalfinsTech, developers of All Video Downloader & Saver
-- **Service**: The All Video Downloader & Saver mobile application
-- **Country**: India
-- **Device**: Any device accessing the Service (phone, tablet, etc.)
-- **Personal Data**: Any information relating to an identified individual
+2. Device Information
 
-## Information We Collect
+* Device type
+* Operating system version
+* Basic technical identifiers
 
-### No Personal Data Collected
+3. Network Information
 
-The Service requires NO registration or account creation.
+* IP address (used temporarily for request processing)
 
-We do NOT collect:
-- Email addresses
-- Names
-- Phone numbers
-- Addresses
-- Any personal identifiers
+Important:
+We do NOT collect or store:
 
-### No Tracking or Profiling
-- No user accounts
-- No advertising tracking
-- No behavioral profiling
-- Completely anonymous operation
+* Personal media files
+* URLs entered by users
+* Downloaded content
+* Sensitive personal information
 
-## How We Use Information
+How We Use Information
 
-We use minimal technical information only to:
-- Provide and maintain the Service
-- Fix crashes and bugs
-- Improve app performance
-- Enforce free tier limits
+We use collected data to:
 
-We NEVER use information for:
-- Marketing or advertising
-- Selling or sharing user data
-- User identification or tracking
+* Provide and maintain app functionality
+* Improve performance and user experience
+* Fix bugs and technical issues
+* Ensure security and prevent misuse
 
-## Local Device Storage
+Third-Party Services
 
-**Stored on your device only:**
-- Download usage counts (free tier limits)
-- App preferences and settings
-- Downloaded media files
+The App uses third-party APIs to fetch publicly accessible media.
 
-**Important**: All local data stays on YOUR device. We have no access to it.
+* We do not control third-party services
+* Each third party operates under its own privacy policy
+* We do not store or redistribute data from these services
 
-## User Responsibility for Content
+Data Storage
 
-**By using this Service, you agree:**
+* The App does not store or cache user data on servers
+* Any downloaded media is saved locally on the user’s device
+* We do not maintain a database of user activity
 
-1. **Personal Use Only**: Content is for your private, non-commercial use
-2. **Legal Compliance**: You verify you have rights to download content
-3. **No Redistribution**: Do NOT share, sell, or repost commercially
-4. **Copyright Respect**: Only download content you are authorized to use
+Cookies & Tracking
 
-**We do NOT:**
-- Store your downloads
-- Monitor your downloads
-- Endorse unauthorized downloading
+The App does not use cookies.
+Some third-party services may use tracking technologies as per their policies.
 
-**You are fully responsible** for content legality and source platform compliance.
+Children’s Privacy
 
-## Data Sharing
+This App is not intended for children under the age required by local laws.
+We do not knowingly collect data from children.
 
-We NEVER sell, trade, or rent data.
+User Rights
 
-**Shared ONLY when legally required:**
-- Court orders
-- Government authorities (India)
+You may:
 
-No third-party sharing for marketing, analytics, or any commercial purpose.
+* Stop using the App at any time
+* Control permissions via device settings
+* Contact us for any data-related concerns
 
-## Data Retention
+Security
 
-- No personal data stored on our servers
-- Local data remains on your device until you delete it
-- Technical logs (if any) retained only as needed for service operation
+We implement reasonable technical measures to protect data.
+However, no system is 100% secure.
 
-## Data Security
+Third-Party Links
 
-- HTTPS encryption for all communication
-- No sensitive data stored on servers
-- Local data protected by your device security
+The App may interact with external links.
+We are not responsible for third-party content or privacy practices.
 
-No method is 100% secure, but we use industry-standard protections.
+Changes to This Policy
 
-## Children's Privacy
+We may update this Privacy Policy at any time.
+Continued use of the App means acceptance of updates.
 
-Service is NOT intended for children under 13. We do not knowingly collect data from children.
+Contact Us
 
-## Your Rights
-
-Under India's DPDP Act and applicable laws, you have rights to:
-- Access any data we hold
-- Request correction or deletion
-- Withdraw consent
-- File complaints
-
-**Contact**: support@goalfinstech.com
-
-## Changes to This Policy
-
-We may update this policy. Changes will be posted in the app. Continued use constitutes acceptance.
-
-## Contact Us
-
-**Email**: support@goalfinstech.com  
-**Location**: Udaipur, Rajasthan, India
+If you have questions, contact:
+[Your Email Here]
